@@ -1,0 +1,1 @@
+print ( " ui quan tri")
